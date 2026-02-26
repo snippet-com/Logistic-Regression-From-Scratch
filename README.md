@@ -2,7 +2,7 @@ Logistic Regression From Scratch
 
 This repository implements a Logistic Regression classifier from scratch in Python, using NumPy (no scikit‑learn model training functions). It trains a model on the Breast Cancer dataset and shows how gradient descent can optimize weights and bias for binary classification.
 
-🚀 Project Overview
+->Project Overview
 
 This project teaches you how Logistic Regression works under the hood:
 
@@ -18,7 +18,7 @@ Visualization of loss (cost) over iterations
 
 It does not use any machine learning library for the algorithm itself — only NumPy and standard utilities.
 
-📁 Repository Structure
+->Repository Structure
 .
 ├── model.py          # Logistic regression functions (sigmoid, cost, gradient descent)
 ├── train.py          # Train the model and explore cost history
